@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 { /* lyricfinder */
+  letter-spacing: 2px;
+  font-size: 25px;
+  font-family: 'Didact Gothic', sans-serif;
+  font-weight:bold;
+  color: hotpink;
+  text-align: center;
+  line-height: 1.3em;
+}
+
+.intro-text { /* let's get started! */
+  /*padding: 4%;*/
+  margin: 3%;
+  color: darkred; 
+  font-size: 14px; 
+  letter-spacing: 1px; 
+  line-height: 1.4em; 
+  text-align: center;
+}
+
+.spotify {
+  background-color: white; /* Add your own background color */
+  padding: 4%;
+  margin: 2%;
+  color: darkgreen; /* Add the color of your font */
+  font-size: 10px; /* Add your font size*/
+  letter-spacing: 1px; /* Adds space between letters */
+  line-height: 1.4em; /* Adds space between lines */
+  text-align: center;
+}
+
